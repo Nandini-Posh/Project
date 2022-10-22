@@ -1,0 +1,9 @@
+Automating Infrastructure using Terraform:
+
+Tools used: Terraform, AWS account with security credentials, Keypair.
+Launch an EC2 instance using Terraform
+Connect to the instance, Install Jenkins, Java, and Python in the instance.
+
+Managing tightly coupled architecture using Amazon SQS
+Tools used:
+AWS Services: SQS, EC2, IAM, and RDS
